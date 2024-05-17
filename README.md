@@ -1,8 +1,7 @@
-# Welcome to my coding-interview-road-map!
+# Welcome! 
 
-## I'm José 
-## My main goal for this repository is to serve as a log of my progress throughout my job search journey. Feel free to explore my updates and reflections as I navigate through this process.
-
+I'm José Saldivia
+This repository will serve as a log of my progress throughout my job search journey. Feel free to explore my updates and reflections as I navigate through this process.
 
 
 ## From planning to execution.
