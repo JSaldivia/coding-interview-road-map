@@ -1,22 +1,31 @@
 # Welcome to my coding-interview-road-map!
 
-## I'm José Saldivia. This repository will serve as a log of my progress throughout my job search journey. Feel free to explore my updates and reflections as I navigate through this process.
+## I'm José 
+## My main goal for this repository is to serve as a log of my progress throughout my job search journey. Feel free to explore my updates and reflections as I navigate through this process.
 
 
-### From planning to execution.
+
+## From planning to execution.
 
 
-- [x] Hello GIT! First commit:
+- [x] Hello GIT!
 - [x] https://github.com/JSaldivia
 - [x] :tada:
 - [ ] 
 
 > [!NOTE]
-> Useful information that users should know!!!
-- [ ]  
-- [ ] 
-- [ ]  
-- [ ] 
+[comment]: <> (Useful information that users should know!!!)
+
+## Not all the roadmaps will take you to your goals but they will for sure take you to where you belong 
+
+### I recently discovered [John Washam's](https://github.com/jwasham) repository, which offers insightful resources for preparing for [job interviews](https://github.com/jwasham/coding-interview-university). It's definitely worth exploring!
+
+For this documment, I will be also using his recommended [git basic grammar](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) among other tools such as the following: 
+- [x] [ROADMAP](https://roadmap.sh/computer-science)  
+- [x] [CODING](https://programiz.pro/)
+- [x] [BOOKS] 
+    - [ ] C Programming Language, 2nd Edition 2nd Edition  
+    - [ ] CRACKING the CODING INTERVIEW
 - [ ] 
 
 > [!TIP]
