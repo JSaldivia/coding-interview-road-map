@@ -9,7 +9,7 @@
 - [x] Hello GIT! First commit:
 - [x] https://github.com/JSaldivia
 - [x] :tada:
-- [ ] ### Hello GIT!!!
+- [ ] 
 
 > [!NOTE]
 > Useful information that users should know!!!
