@@ -1,13 +1,48 @@
 # Welcome! 
 
 I'm José Saldivia
-This repository will serve as a log of my progress throughout my job search journey. Feel free to explore my updates and reflections as I navigate through this process.
+This repository will serve as a log of my progress throughout my job search journey. I will be focus on Software engineering mostly, but if the direction changes I will address it in a new repo. 
+The log will also doccument my progress in subjects such as 
+- [] Introduction to programming
+    - [] Starting Point (from zero to arrays and linked lists)
+- [] DSA (Data Structure and Algorithms)
+    - [] Linked lists and Arrays
+    - [] Queue
+    - [] Stacks
+    - [] Hash Tables
+    - [] Trees
+        - [] What are Trees?
+        - [] Binary Search Trees
+        - [] DFS (Depth-First Search)
+        - [] BFS (Breadth-First Search)
+        - [] Balanced Searc trees
+        - [] Tree traversals: pre/post/in-order DFS, BFS
+    - [] Sorting
+        -[] Insertions sort
+        -[] Selection sort
+        -[] Heap sort
+        -[] Merge sort
+    - [] Graphs
+        - [] what are graphs?
+        - [] Directed and Undirected
+        - [] Adjacency List
+        - [] Adjacency Matrix
+        - [] 
+- [] Algrothm Comlexity (Big-O notation)
+
+- [] :tada:
+
+ Feel free to explore my updates and reflections as I navigate through this process.
 
 
 ## From planning to execution.
 
 
 - [x] [Hello GIT!](#Welcome!)
+Before anything happens we need to choose our programming language:
+For me, I will be focusing on C, with the main goal of transitioning to C++
+The reasons? I want to have a solid knowladge on memory allocation and I believe it will help me to learn other languages and frameworks faster.
+NOTE: The basics are the same in any language, the difference are libraries and syntax. But the problem solving skills are unique to each programmer. 
     - [Choosing a programming language] (#Choosing-a-programming-language)
 - [x] :tada:
 
