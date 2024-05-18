@@ -7,13 +7,31 @@ This repository will serve as a log of my progress throughout my job search jour
 ## From planning to execution.
 
 
-- [x] Hello GIT!
-- [x] https://github.com/JSaldivia
+- [x] [Hello GIT!](#Welcome!)
+    - [Choosing a programming language] (#Choosing-a-programming-language)
 - [x] :tada:
-- [ ] 
+
+<!-- ## Table of Contents
+
+### The Study Plan
+
+- [What is it?](#what-is-it)
+- [Why use it?](#why-use-it)
+- [How to use it](#how-to-use-it)
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [A Note About Video Resources](#a-note-about-video-resources)
+- [Choose a Programming Language](#choose-a-programming-language)
+- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+- [Interview Prep Books](#interview-prep-books)
+- [Don't Make My Mistakes](#dont-make-my-mistakes)
+- [What you Won't See Covered](#what-you-wont-see-covered)
+- [The Daily Plan](#the-daily-plan)
+- [Coding Question Practice](#coding-question-practice)
+- [Coding Problems](#coding-problems) -->
+
 
 > [!NOTE]
-[comment]: <> (Useful information that users should know!!!)
+<!-- [comment]: <> (Useful information that users should know!!!) -->
 
 ## Not all the roadmaps will take you to your goals but they will for sure take you to where you belong 
 
