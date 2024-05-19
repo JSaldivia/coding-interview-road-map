@@ -41,7 +41,6 @@ I will be going trough:
         - [ ] Directed and Undirected
         - [ ] Adjacency List
         - [ ] Adjacency Matrix
-        - [ ] 
 - [ ] Algrothm Comlexity (Big-O notation)
 
 - [x] :tada:
@@ -77,34 +76,19 @@ I believe this will help me to learn other languages and frameworks faster.\
 - [ ] [Choosing a programming language](#Choosing-a-programming-language)
 - [x] :tada:
 
+## Not all the roadmaps will take you to your goals but they will for sure take you to where you belong 
 
 > [!NOTE]
 > Useful information that users should know!!!
 
-## Not all the roadmaps will take you to your goals but they will for sure take you to where you belong 
-
-
 > [!TIP]
 > Advice for doing things better and more easily.
-> When scanning for Increment INCR do a nested if:
-
-- [ ] 
-- [ ] 
-- [ ]
-- [ ]  
-> Another way to implement the INCR is to modify the ADD token
 
 > [!IMPORTANT]
 > Key information the user/s need to know about this program.
 
 > [!WARNING]
 > Urgent info that needs immediate attention to avoid problems.
-> While implementing any token remember how if statement and logical conditions work!!! 
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
-> Therefore if a condition is meet, before time it would be a bug in the code
-> Example:
-> - [ ] IF implementing add first
-> - [ ] Increment will never run!!!
-> Then is important to either keep INCR in its own if statement before ADD or modify the ADD token! 
