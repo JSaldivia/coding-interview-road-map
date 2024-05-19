@@ -13,7 +13,9 @@ Repeat this step as many times as possible to get comfortable with error message
 ### In addition I want to add a recently discovery:  
 [John Washam's](https://github.com/jwasham) repository!!! this offers insightful resources for preparing for [job interviews](https://github.com/jwasham/coding-interview-university). and its definitely worth exploring!
 
-> [!Reminder] This repository is a log of my progress throughout my job hunts journey, a guided doccument while preparing for coding interviews.\
+> [!NOTE] 
+> Reminder!!! This repository is a log of my progress throughout my job hunts journey, a guided doccument while preparing for coding interviews.
+
 I will be going trough: 
 - [ ] Introduction to programming
     - [ ] Starting Point (from zero to arrays and linked lists)
@@ -70,9 +72,9 @@ I believe this will help me to learn other languages and frameworks faster.\
 
 > [!NOTE] 
 > The basics for programming languages are the same!, the differences relays not in the libraries or syntax, but mainly in the
-> problem solving skills we develop as programmers.\
+> problem solving skills we develop as programmers.
 
-- [Choosing a programming language](#Choosing-a-programming-language)
+- [ ] [Choosing a programming language](#Choosing-a-programming-language)
 - [x] :tada:
 
 
