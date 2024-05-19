@@ -3,42 +3,42 @@
 ## Not all the roadmaps will take you to your goals but they will for sure take you to where you belong!!!
 
 ### Hi, I am José Saldivia:
-I want to share my journey with all of you by making this repositori public. While I am learning and preparing for interviews, this log will also work to documment my progress. My focus will be in Software Engineering using C, a low level language I have pick in order to understand more about memory allocation, and memory leacks. Before starting, I will advice you to check some cool gides or do some readings regarding programming languages and why there are so many.\
-While choosing a language, is recommended to know what are your goals, web dev, software, data science, mobile, cross platform? are some example questins to ask before picking one, but keep in mind there is no right nor wrong when choosing a language, just stick with one and make the best learning experience. Have fun, breake your working code, break it again and read what the compiler says! repeat this step as many times as possible to get comfortable with error messages and warnings.
+I want to share my journey with all of you by making this repositori public. While I am learning and preparing for interviews, this log will also work to documment my progress.\ My focus will be in Software Engineering using C, a low level language I have pick in order to challange my problem solving skills by thinking outside of the box while understanding more about memory allocation, and memory leacks.\ Before starting, I will advice you to check some cool gides or do some readings regarding programming languages and which one will fit you best.\
+While choosing a language, is recommended to know what are your goals. Web dev, software, data science, mobile, cross platform? are some example questins to ask before picking one, but keep in mind there is no right nor wrong when choosing a language, just stick with one and make the best learning experience. Have fun, breake your working code, break it again and read what the compiler says! repeat this step as many times as possible to get comfortable with error messages and warnings.
 
 ### In addition I want to add a recently discovery:  
 [John Washam's](https://github.com/jwasham) repository!!! this offers insightful resources for preparing for [job interviews](https://github.com/jwasham/coding-interview-university). and its definitely worth exploring!
 
 [Reminder] This repository is a log of my progress throughout my job hunts journey, a guided doccument while preparing for coding interviews.\
-I will be going trough subjects such as: 
-- [] Introduction to programming
-    - [] Starting Point (from zero to arrays and linked lists)
-- [] DSA (Data Structure and Algorithms)
-    - [] Linked lists and Arrays
-    - [] Queue
-    - [] Stacks
-    - [] Hash Tables
-    - [] Trees
-        - [] What are Trees?
-        - [] Binary Search Trees
-        - [] DFS (Depth-First Search)
-        - [] BFS (Breadth-First Search)
-        - [] Balanced Searc trees
-        - [] Tree traversals: pre/post/in-order DFS, BFS
+I will be going trough: 
+- [ ] Introduction to programming
+    - [ ] Starting Point (from zero to arrays and linked lists)
+- [ ] DSA (Data Structure and Algorithms)
+    - [ ] Linked lists and Arrays
+    - [ ] Queue
+    - [ ] Stacks
+    - [ ] Hash Tables
+    - [ ] Trees
+        - [ ] What are Trees?
+        - [ ] Binary Search Trees
+        - [ ] DFS (Depth-First Search)
+        - [ ] BFS (Breadth-First Search)
+        - [ ] Balanced Searc trees
+        - [ ] Tree traversals: pre/post/in-order DFS, BFS
     - [] Sorting
-        -[] Insertions sort
-        -[] Selection sort
-        -[] Heap sort
-        -[] Merge sort
-    - [] Graphs
-        - [] what are graphs?
-        - [] Directed and Undirected
-        - [] Adjacency List
-        - [] Adjacency Matrix
-        - [] 
-- [] Algrothm Comlexity (Big-O notation)
+        -[ ] Insertions sort
+        -[ ] Selection sort
+        -[ ] Heap sort
+        -[ ] Merge sort
+    - [ ] Graphs
+        - [ ] what are graphs?
+        - [ ] Directed and Undirected
+        - [ ] Adjacency List
+        - [ ] Adjacency Matrix
+        - [ ] 
+- [ ] Algrothm Comlexity (Big-O notation)
 
-- [] :tada:
+- [ ] :tada:
 
  Feel free to explore my updates and reflections as I navigate through this process.
 
@@ -62,14 +62,15 @@ For this documment, I will be also using his recommended [git basic grammar](htt
 Before anything happens I recommend a short reading on: [Choosing a programming language](https://www.geeksforgeeks.org/how-to-choose-a-programming-language-for-a-project/).\
 For me, I will be focusing on C, with the main goal of preparing for interviews either in C or Python (most popular for interviews)
 The reasons? I want to have a solid knowladge on a low level language, handle memory leaks, and get more comfortable with a low level language while learning DSA.\
-I believe this will help me to learn other languages and frameworks faster.
-[NOTE]: The basics are the same in any language, the differences are not only in the libraries and syntax, but mainly in the problem solving skills we develop as programmers. 
-    - [Choosing a programming language](#Choosing-a-programming-language)
+I believe this will help me to learn other languages and frameworks faster.\ \
+> [!NOTE]: 
+> The basics for programming languages are the same!, the differences relays not in the libraries or syntax, but mainly in the problem solving skills we develop as programmers. 
+>   - [Choosing a programming language](#Choosing-a-programming-language)
 - [x] :tada:
 
 
 > [!NOTE]
-<!-- [comment]: <> (Useful information that users should know!!!) -->
+> Useful information that users should know!!!
 
 ## Not all the roadmaps will take you to your goals but they will for sure take you to where you belong 
 
