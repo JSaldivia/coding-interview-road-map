@@ -1,8 +1,16 @@
 # Welcome! 
 
-I'm José Saldivia
-This repository will serve as a log of my progress throughout my job search journey. I will be focus on Software engineering mostly, but if the direction changes I will address it in a new repo. 
-The log will also doccument my progress in subjects such as 
+## Not all the roadmaps will take you to your goals but they will for sure take you to where you belong!!!
+
+I'm José Saldivia:
+I want it to share my journey with all of you by making this repositori public. While I am learning and preparing for interviews, this log will also work to documment my progress. My focus will be in Software Engineering using C, a low level language I have pick in order to understand more about memory allocation, and memory leacks. Before starting, I will advice you to check some cool gides or do some readings regarding programming languages and why there are so many. 
+While choosing a language, is recommended to know what are your goals, web dev, software, data science, mobile, cross platform? are some example questins to ask before picking one. But there is no right nor wrong when choosing a language, just stick with it and make the best learning experience, have fun, breake your working code and read what the compiler says, repeat this step as many times as possible to get comfortable with those error messages and warnings.
+In addition I want to add a recently discovery:  
+### In addition I want to add a recently discovery:  
+[John Washam's](https://github.com/jwasham) repository!!! this offers insightful resources for preparing for [job interviews](https://github.com/jwasham/coding-interview-university). and its definitely worth exploring!
+
+[Reminder] This repository is a log of my progress throughout my job hunts journey, a guided doccument of my progress, and preparing for coding interviews.
+I will be going trough subjects such as: 
 - [] Introduction to programming
     - [] Starting Point (from zero to arrays and linked lists)
 - [] DSA (Data Structure and Algorithms)
@@ -35,34 +43,29 @@ The log will also doccument my progress in subjects such as
  Feel free to explore my updates and reflections as I navigate through this process.
 
 
+For this documment, I will be also using his recommended [git basic grammar](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) among other tools such as the following: 
+- [x] [ROADMAP](https://roadmap.sh/computer-science)  
+- [x] [CODING](https://programiz.pro/)
+- [x] [BOOKS] 
+    - [ ] C Programming Language, Second Edition
+    - [ ] C Reference Manual, Third Edition  
+    - [ ] Starting out with C++ from control Structuresd thtrough Objects  
+    - [ ] CRACKING the CODING INTERVIEW
+    - [ ] Teach Yourself Data Structures and Alcorithms
+
+
+
 ## From planning to execution.
 
 
 - [x] [Hello GIT!](#Welcome!)
-Before anything happens we need to choose our programming language:
-For me, I will be focusing on C, with the main goal of transitioning to C++
-The reasons? I want to have a solid knowladge on memory allocation and I believe it will help me to learn other languages and frameworks faster.
-NOTE: The basics are the same in any language, the difference are libraries and syntax. But the problem solving skills are unique to each programmer. 
-    - [Choosing a programming language] (#Choosing-a-programming-language)
+Before anything happens I recommend a short reading on: [choose a programming language](https://www.geeksforgeeks.org/how-to-choose-a-programming-language-for-a-project/):
+For me, I will be focusing on C, with the main goal of preparing for interviews either in C or Python (most popular for interviews)
+The reasons? I want to have a solid knowladge on a low level language, handle memory leaks, and get more comfortable with a low level language while learning DSA.
+I believe this will help me to learn other languages and frameworks faster.
+[!NOTE]: The basics are the same in any language, the differences are not only in the libraries and syntax, but mainly in the problem solving skills we develop as programmers. 
+    - [Choosing a programming language](#Choose-a-programming-language)
 - [x] :tada:
-
-<!-- ## Table of Contents
-
-### The Study Plan
-
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [A Note About Video Resources](#a-note-about-video-resources)
-- [Choose a Programming Language](#choose-a-programming-language)
-- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
-- [Interview Prep Books](#interview-prep-books)
-- [Don't Make My Mistakes](#dont-make-my-mistakes)
-- [What you Won't See Covered](#what-you-wont-see-covered)
-- [The Daily Plan](#the-daily-plan)
-- [Coding Question Practice](#coding-question-practice)
-- [Coding Problems](#coding-problems) -->
 
 
 > [!NOTE]
@@ -70,15 +73,6 @@ NOTE: The basics are the same in any language, the difference are libraries and 
 
 ## Not all the roadmaps will take you to your goals but they will for sure take you to where you belong 
 
-### I recently discovered [John Washam's](https://github.com/jwasham) repository, which offers insightful resources for preparing for [job interviews](https://github.com/jwasham/coding-interview-university). It's definitely worth exploring!
-
-For this documment, I will be also using his recommended [git basic grammar](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) among other tools such as the following: 
-- [x] [ROADMAP](https://roadmap.sh/computer-science)  
-- [x] [CODING](https://programiz.pro/)
-- [x] [BOOKS] 
-    - [ ] C Programming Language, 2nd Edition 2nd Edition  
-    - [ ] CRACKING the CODING INTERVIEW
-- [ ] 
 
 > [!TIP]
 > Advice for doing things better and more easily.
