@@ -38,7 +38,7 @@ Coursework: Introduction to OOP programming languages, Compiler Design, Data Str
   - Coordinated resources, led regular meetings, and promoted adaptability to meet evolving educational needs.
   - Established a thriving community that enhanced educational access and support, fostering robust engagement and resource sharing.
 
-### Java Tutor (2020 – 2021)
+### Java Tutor (2019 – 2021)
 - Identified a significant gap in engagement and performance among underrepresented students in programming courses and stepped in as a Java Tutor to bridge this gap.
 - Volunteered my expertise in Java to foster a deeper understanding and stronger engagement in these students through personalized tutoring sessions.
 - Adapted teaching methods to meet diverse student needs, providing ongoing motivation and support that transformed student outlook and participation.
@@ -46,7 +46,3 @@ Coursework: Introduction to OOP programming languages, Compiler Design, Data Str
 
 ## References
 Available upon request.
-
-## References
-Available upon request.
-
