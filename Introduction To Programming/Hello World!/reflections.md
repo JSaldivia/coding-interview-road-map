@@ -6,11 +6,12 @@ Here I will describe what error I did, what the terminal wrote and what I learne
 
 
 # Statements: 
-- [x] print("Hello World!!!\n");
-    This statement is missing the formating (printf = print with format).\
+- [x] print("Hello World!!!\n");\ with an error: The statement is missing formating (printf = print with format).\
+
 **Error:**
-    ```hello.c:11:5: error: call to undeclared function 'print'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+    ```hello.c:11:5: error: call to undeclared function 'print'; ISO C99 and later do not support implicit function declarations \[-Wimplicit-function-declaration\]
     print("Hello World!!!\n");```
+
 >[!NOTE]hello.c:11:5 is telling us where the error is
 - [x] First: Which file contains the error (in this case is in hello.c).
 - [x] Second: The cursor location and line of the error (location 11 on line 5).

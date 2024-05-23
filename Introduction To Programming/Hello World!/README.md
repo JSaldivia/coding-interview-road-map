@@ -1,16 +1,17 @@
 # Here we will be working on the classic "Hello World!!!" print statement.\ Describing common errors when the statement is not correct by making mistakes
 ## Goal: 
+
 ***Learn how to read the comand line or terminal messages and feel comfortable with those errors***
 
 ## Program description: 
-    Print a "Hello World!!!" message on terminal in C.
+    Print "Hello World!!!" message in terminal using C programming language.
 
 ## Program:
     ```
     #include <stdio.h> //Standar input output library
 
     int main (){
-        //print with format
+        //print instead of printf
         print("Hello World!!!\n");
 
     return 0;
