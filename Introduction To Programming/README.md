@@ -3,14 +3,16 @@ This part of the program has been completed following steps:
 - [X] ***Choosing a programming language***
     - [x] Readings from internet on how to choose a programming language and the importance of them
     - [x] Learning the basic concepts on that language (in my case I have choose C)
-    - [x] Understand the basics and practice
+    - [-] Understand the basics and practice
 
 ## Resources: 
 
 ***[Bro Code ✅](https://www.youtube.com/@BroCodez)*** 
 This youtube channel provide all the resources needed to learn the basic and advanced topics on different programming languages.\
-There are multiple topics covered during the 4 hours video on C programming.
+I will be doing this interview preparation using the C programming language.\
 
+> [!IMPORTANT]
+> This video is property of ***Bro Code***, it works as a great resource for me and want it to share it with you, all his videos are 100% free. 
 [You can go to the full video or timestamps on: ](https://www.youtube.com/watch?v=87SH2Cn0s9A&ab_channel=BroCode)
 
 ***C tutorial for beginners 🕹️***
@@ -67,8 +69,4 @@ There are multiple topics covered during the 4 hours video on C programming.
 
 ## I have also used:
 ### [programiz pro](https://app.programiz.pro/)
-In the previous introductory page you can find more resources about where to learn a language and which ones to consider depending on your short/long term goals.\
-
-
-> [!IMPORTANT]
-> This is not my video, but I am sharing the resources I use to learn, this video is property of Bro Code and his youtube channel, all his videos are 100% free to watch and no payment is needed. 
+In the [introductory page](https://github.com/JSaldivia/coding-interview-road-map/blob/main/README.md#welcome) you can find more resources about where to learn a language and which ones to consider by focusing on your goals.\
