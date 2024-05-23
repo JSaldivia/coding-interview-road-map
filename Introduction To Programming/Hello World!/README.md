@@ -18,8 +18,16 @@
     }
     ```
 
-### To run this program I will be typing on the terminal the following command:
-```gcc -Wall -o hello hello.c```
+> [!TIP]
+> Advice for doing things better and more easily.
+> ### To run this program I will be typing on the terminal the following command:
+> ```gcc -Wall -o hello hello.c```
+
+> [!IMPORTANT]
+> I like to yse the man utility which finds and displays online manual documentation for the desired library/function
+> Exampple: 
+>       man man
+                > Displays the manual page with some of the most used commands
 
 > [!NOTE]Makefile:
 > for future programs I will be using a makefile that will contain all the nessesary flags

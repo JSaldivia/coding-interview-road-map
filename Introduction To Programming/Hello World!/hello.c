@@ -7,8 +7,8 @@
 
 int main (){
     //print with format
-    // printf("Hello World!!!\n");
-    print("Hello World!!!\n");
+    // print("Hello World!!!\n");
+    printf(Hello World!!!\n);
     // print("Hello World!!!\n");
     // print("Hello World!!!\n");
     // print("Hello World!!!\n");
