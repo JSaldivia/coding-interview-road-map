@@ -1,11 +1,19 @@
 # Introduction to programming
 This part of the program has been completed following steps:
 - [X] ***Choosing a programming language***
-    - [x] Readings from internet on how to choose a programming language and the importance of them
+    - [x] Readings from internet on how to choose a programming language and the importance each one
     - [x] Learning the basic concepts on that language (in my case I have choose C)
-    - [-] Understand the basics and practice
+    - [ ] Understand the basics and practice
 
 ## Resources: 
+
+### Whatch your language:
+- [What Programming Language Should You Learn First?](https://www.codecademy.com/resources/blog/what-programming-language-should-i-learn/)
+- [Choosing the Right Programming Language](https://devops.com/choosing-the-right-programming-language/#:~:text=When%20selecting%20a%20programming%20language,and%20the%20language's%20current%20popularity.)
+- [How to Choose a Programming Language For a Project?](https://www.geeksforgeeks.org/how-to-choose-a-programming-language-for-a-project/)
+- [TIOBE - Most used programming languages](https://www.tiobe.com/tiobe-index/)
+- [Top 20 Best Programming Languages To Learn in 2024](https://www.simplilearn.com/best-programming-languages-start-learning-today-article)
+
 
 ***[Bro Code ✅](https://www.youtube.com/@BroCodez)*** 
 This youtube channel provide all the resources needed to learn the basic and advanced topics on different programming languages.\
