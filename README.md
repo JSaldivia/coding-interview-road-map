@@ -17,8 +17,8 @@ Repeat this step as many times as possible to get comfortable with error message
 > Reminder!!! This repository is a log of my progress throughout my job hunts journey, a guided doccument while preparing for coding interviews.
 
 I will be going trough: 
-- [ ] Introduction to programming
-    - [ ] Starting Point (from zero to arrays and linked lists)
+- [x] Introduction to programming
+    - [x] Starting Point (from zero to arrays and linked lists)
 - [ ] DSA (Data Structure and Algorithms)
     - [ ] Linked lists and Arrays
     - [ ] Queue
@@ -50,6 +50,7 @@ I will be going trough:
 
 For this documment, I will be also using his recommended [git basic grammar](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) among other tools such as the following: 
 - [x] [ROADMAP](https://roadmap.sh/computer-science)  
+- [x] [Videos](https://www.youtube.com/@BroCodez)
 - [x] [CODING](https://programiz.pro/)
 - [x] [BOOKS] 
     - [ ] C Programming Language, Second Edition
@@ -73,7 +74,7 @@ I believe this will help me to learn other languages and frameworks faster.\
 > The basics for programming languages are the same!, the differences relays not in the libraries or syntax, but mainly in the
 > problem solving skills we develop as programmers.
 
-- [ ] [Choosing a programming language](#Choosing-a-programming-language)
+- [x] [Choosing a programming language](#Choosing-a-programming-language)
 - [x] :tada:
 
 ## Not all the roadmaps will take you to your goals but they will for sure take you to where you belong 
