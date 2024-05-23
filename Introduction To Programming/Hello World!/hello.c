@@ -7,16 +7,13 @@
 
 int main (){
     //print with format
-    // print("Hello World!!!\n");
-    printf(Hello World!!!\n);
-    // print("Hello World!!!\n");
-    // print("Hello World!!!\n");
-    // print("Hello World!!!\n");
-    // print("Hello World!!!\n");
-    // print("Hello World!!!\n");
-    // print("Hello World!!!\n");
-    // print("Hello World!!!\n");
-    // print("Hello World!!!\n");
+    // print("Hello World!!!\n");   // print instead of printf
+    // printf(Hello World!!!\n);    // no quotations in the string
+    //print("Hello World!!!\n);     // missing only one quotation mark  
+    // printf("Hello World!!!\n")   // Missing ending semicoilon
+    // printf("Hello" World!!!\n);  // Wrapping "Hello" in quotation marks but not the whole string
+    // printf ("Hello World!!!\n";
+    printf("Hello World!!!\n");
 
     return 0;
 }
