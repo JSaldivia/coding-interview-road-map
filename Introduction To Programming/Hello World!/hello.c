@@ -6,7 +6,6 @@
 #include <stdio.h> //Standar input output library
 
 int main (){
-    //print with format
     // print("Hello World!!!\n");   // print instead of printf
     // printf(Hello World!!!\n);    // no quotations in the string
     //print("Hello World!!!\n);     // missing only one quotation mark  
