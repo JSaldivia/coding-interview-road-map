@@ -1,3 +1,4 @@
+
 /*
 Temperature conversion program
 will be static and print the temperatures from C - F 
@@ -24,7 +25,7 @@ celsius and fahrenheit files
 
     printf("Temperature chart\n\nFahrenheit\tCelsius\n");
   
-    for (f = 0; f <= 300; f = f +20){
+    for (f = 300; f >= 0; f = f -20){
         printf("%5.0lf\t\t%6.1lf\n", f, (5.0/9.0)*(f-32));
     }
     return 0;

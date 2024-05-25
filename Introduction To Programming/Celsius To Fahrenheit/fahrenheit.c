@@ -13,19 +13,25 @@ int main(){
 ***** NOTE *****
 for this short program I will name the variables
 f = Fahrenheit
+c = Celsius
 in larger scale programs variables must!
 be implicit and easy to read
-
-we implement a for loop to avoid all variables from 
-celsius and fahrenheit files
 */
 
-    float f;
+    float f, c;
+    int lower, upper, step;
 
+    lower = 0; //the lower limit of our program
+    upper = 300; //upper limit
+    step = 20; //step size
+
+    f = lower;
     printf("Temperature chart\n\nFahrenheit\tCelsius\n");
-  
-    for (f = 0; f <= 300; f = f +20){
-        printf("%5.0lf\t\t%6.1lf\n", f, (5.0/9.0)*(f-32));
+    while (f <= upper){
+        c = (5.0/9.0) * (f-32.0);
+        printf("%5.0lf\t\t%6.1lf\n", f, c);
+        f = f + step;
     }
+
     return 0;
 }
