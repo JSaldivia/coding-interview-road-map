@@ -3,7 +3,7 @@ This part of the program has been completed following steps:
 - [X] ***Choosing a programming language***
     - [x] Readings from internet on how to choose a programming language and the importance each one
     - [x] Learning the basic concepts on that language (in my case I have choose C)
-    - [ ] Understand the basics and practice
+    - [ ] Understand the basics and practice // In Progress ☠️
 
 ## Resources: 
 
