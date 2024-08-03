@@ -39,6 +39,9 @@ for the function EOF to work properly
 #include <stdio.h>
 
 int main() {
-        printf("The value of EOF is: %d\n", EOF);
+        printf("The value of EOF is: %d\n", EOF); //printing the value of EOF
+        printf("\nThe value of !=EOF is: %d\n", getchar()!=EOF); //printing the value of getchar if its not = to eof
+        // printf("\nThe value of Getchar is: %d\n", getchar());
+
     return 0;
 }
