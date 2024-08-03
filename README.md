@@ -81,9 +81,11 @@ I believe this will help me to learn other languages and frameworks faster.\
 
 > [!NOTE]
 > Useful information that users should know!!!
-
+> DSA on leet code is giving me examples on Java, therefore I will be swapping between Java and C to be more on the loop
+> An addition to it, practicing more about Arrays and understand them will be helpfull for the future on DSA
 > [!TIP]
 > Advice for doing things better and more easily.
+
 
 > [!IMPORTANT]
 > Key information the user/s need to know about this program.
