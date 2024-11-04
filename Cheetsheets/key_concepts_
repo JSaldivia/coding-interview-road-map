@@ -1,3 +1,4 @@
+
 # Algorithmic Key Concepts for Job Interviews
 
 ## Linked List Algorithms
@@ -80,4 +81,3 @@
 | `\\s`   | Matches any whitespace                   |
 | `\\S`   | Matches any non-whitespace               |
 | `[abc]` | Matches any character in the set         |
-| `|`     | Acts as OR between patterns              |
