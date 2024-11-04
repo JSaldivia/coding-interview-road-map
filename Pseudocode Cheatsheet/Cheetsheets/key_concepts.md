@@ -80,4 +80,4 @@
 | `\\s`   | Matches any whitespace                   |
 | `\\S`   | Matches any non-whitespace               |
 | `[abc]` | Matches any character in the set         |
-| `\|`   | Acts as OR between patterns              |
+| `\|`    | Acts as OR between patterns              |
