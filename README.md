@@ -59,11 +59,15 @@ For this documment, I will be also using his recommended [git basic grammar](htt
     - [ ] CRACKING the CODING INTERVIEW
     - [ ] Teach Yourself Data Structures and Alcorithms
 - [ ] [Eddit:]
-    - [ ] adding extra matherial to review and practice
+    - [x] adding extra matherial to review and practice
     - [ ] https://careersonair.withgoogle.com/events/data-structure-series
+    - [ ] https://techdevguide.withgoogle.com/
+    - [ ] https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true
+    - [ ] https://www.bigocheatsheet.com/
     - [ ] https://neetcode.io/
     - [ ] https://leetcode.com/
     - [ ] https://www.jetbrains.com/academy/
+    - [ ]
 
 > [!NOTE]
 - Leetcode, and neetcode are important sources to keep in mind
@@ -72,7 +76,6 @@ but after being reach out by Google, Amazon and Meta I realize the importance on
 Practice practice and practice! 
 in case I did not mentioned... Practice even more! 
 that is how you get good at DSA, there are no shortcuts just work. 
-
 
 
 ## From planning to execution.
