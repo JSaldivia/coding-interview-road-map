@@ -58,6 +58,12 @@ For this documment, I will be also using his recommended [git basic grammar](htt
     - [ ] Starting out with C++ from control Structuresd thtrough Objects  
     - [ ] CRACKING the CODING INTERVIEW
     - [ ] Teach Yourself Data Structures and Alcorithms
+- [ ] [Eddit:]
+    - [ ] adding extra matherial to review and practice
+    - [ ] https://careersonair.withgoogle.com/events/data-structure-series
+    - [ ] https://neetcode.io/
+    - [ ] https://leetcode.com/
+    - [ ] https://www.jetbrains.com/academy/
 
 > [!NOTE]
 - Leetcode, and neetcode are important sources to keep in mind
